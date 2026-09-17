@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "api/api1.js": {
+      "runtime": "@vercel/node"
+    },
+    "api/api2.js": {
+      "runtime": "@vercel/node"
+    },
+    "api/api3.js": {
+      "runtime": "@vercel/node"
+    }
+  }
+}
